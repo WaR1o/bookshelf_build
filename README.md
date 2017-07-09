@@ -2,7 +2,7 @@ The project was built assuming it is hosted at the server root. To override this
 
 "homepage" : "http://myname.github.io/myapp",
 
-The build folder is ready to be deployed. You may serve it with a static server:
+The bookshelf_build folder is ready to be deployed. You may serve it with a static server:
 
 npm install -g serve
 
