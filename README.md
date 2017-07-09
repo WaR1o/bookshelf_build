@@ -6,4 +6,4 @@ The build folder is ready to be deployed. You may serve it with a static server:
 
 npm install -g serve
 
-serve -s build
+serve -s bookshelf_build
